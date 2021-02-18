@@ -23,6 +23,7 @@ sleep 5
 clear
 pip install import requests
 pip install mechanize
+pip install requests
 
 python3 omar_Style_feacbook.py
 
